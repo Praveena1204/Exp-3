@@ -29,29 +29,22 @@ Create database tables for Trains, Passengers, Tickets, and Schedules.
 # UML DIAGRAMS:
 
 ## USECASE:
-
-<img width="1190" height="898" alt="image" src="https://github.com/user-attachments/assets/ae8e49dd-1a78-447a-82ee-5d9ae11e37c1" />
+![usecase3](https://github.com/user-attachments/assets/70005d53-9700-46b7-ba5d-6bfbde51ae03)
 
 ## CLASS DIAGRAM:
-
-<img width="981" height="811" alt="image" src="https://github.com/user-attachments/assets/9f8a654f-e6e9-4cc6-a3d7-74408be8719c" />
+![class3](https://github.com/user-attachments/assets/cd6d61ee-15f1-4613-bc29-f10b9b2f132c)
 
 ## SEQUENCE DIAGRAM:
-
-<img width="1128" height="898" alt="image" src="https://github.com/user-attachments/assets/d1b877b7-8b9b-4d4e-a2c2-614e7cdb93d3" />
+![sequence3](https://github.com/user-attachments/assets/aee78198-32f0-44d2-b350-bb8fde17eb76)
 
 ## COMMUNICATION DIAGRAM:
-<img width="1195" height="671" alt="image" src="https://github.com/user-attachments/assets/b36ceebe-94d0-42c2-83aa-fe5e33aba7e7" />
-
+![comm3](https://github.com/user-attachments/assets/8625c1e8-f6d6-4654-8ed8-9effc7921561)
 
 ## ACTIVITY DIAGRAM:
-<img width="854" height="643" alt="image" src="https://github.com/user-attachments/assets/a833f5cb-866f-4a73-9bfb-75ee9638aebe" />
-
+![Activity3](https://github.com/user-attachments/assets/8f5d8269-46f5-49be-8640-5b28af8d7e61)
 
 ## PACKAGE DIAGRAM:
-<img width="704" height="981" alt="image" src="https://github.com/user-attachments/assets/365eed37-2574-4993-9e6a-958226ffc13f" />
-
+![package3](https://github.com/user-attachments/assets/e7befa7d-d61a-4142-8844-09414c25ef36)
 
 # RESULT:
-
 Thus the project to develop e-ticketing system was developed using Star UML Software.
